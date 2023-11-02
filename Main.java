@@ -4,5 +4,6 @@ class Main{
         System.out.print("COMMIT_EXTERNAL");
         System.out.print("COMMIT_EXTERNAL_1");
         System.out.print("COMMIT_EXTERNAL_2");
+        System.out.print("COMMIT_EXTERNAL_3");
     }
 }
